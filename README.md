@@ -11,12 +11,12 @@ I'm a passionate and experienced developer with expertise in PHP, Laravel, Node.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 -->
-## Langauges 
+### Langauges 
 <p>
     <!-- Langs  -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a>
+            width="40" height="40" /> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
@@ -31,7 +31,7 @@ I'm a passionate and experienced developer with expertise in PHP, Laravel, Node.
             alt="typescript" width="40" height="40" /> </a>
 </p>
 
-## DB
+### DB
 <p>
     <!-- DB  -->
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img
@@ -48,7 +48,7 @@ I'm a passionate and experienced developer with expertise in PHP, Laravel, Node.
             alt="postgresql" width="40" height="40" /></a>
 </p> 
 
-## Frontend
+### Frontend
 <p>
     <!-- FE -->
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -66,7 +66,7 @@ I'm a passionate and experienced developer with expertise in PHP, Laravel, Node.
             alt="vuejs" width="40" height="40" /> </a>
 </p>
 
-## Backend And Frameworks
+### Backend And Frameworks
 <p>
     <!-- BE -->
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img
@@ -86,7 +86,7 @@ I'm a passionate and experienced developer with expertise in PHP, Laravel, Node.
             alt="laravel" width="40" height="40" /> </a>
 </p>
 
-## Backend Saas
+### Backend Saas
 <p>
     <!-- Backend SAAS -->
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
