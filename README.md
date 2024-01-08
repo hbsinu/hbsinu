@@ -11,27 +11,8 @@ I'm a passionate and experienced developer with expertise in PHP, Laravel, Node.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 -->
-<p>    
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" /> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
-    <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a>
-</p>
+## Langauges 
 <p>
-    <!-- Backend SAAS -->
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
     <!-- Langs  -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
@@ -49,6 +30,8 @@ I'm a passionate and experienced developer with expertise in PHP, Laravel, Node.
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a>
 </p>
+
+## DB
 <p>
     <!-- DB  -->
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img
@@ -62,9 +45,10 @@ I'm a passionate and experienced developer with expertise in PHP, Laravel, Node.
             alt="mysql" width="40" height="40" /> </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" />
-</p> </a>
+            alt="postgresql" width="40" height="40" /></a>
+</p> 
 
+## Frontend
 <p>
     <!-- FE -->
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -82,6 +66,7 @@ I'm a passionate and experienced developer with expertise in PHP, Laravel, Node.
             alt="vuejs" width="40" height="40" /> </a>
 </p>
 
+## Backend And Frameworks
 <p>
     <!-- BE -->
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img
@@ -100,6 +85,33 @@ I'm a passionate and experienced developer with expertise in PHP, Laravel, Node.
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
             alt="laravel" width="40" height="40" /> </a>
 </p>
+
+## Backend Saas
+<p>
+    <!-- Backend SAAS -->
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+    </a>
+    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
+</p>
+
+## Tools 
+<p>
+    <!-- Tools -->
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+            alt="docker" width="40" height="40" /> </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+            alt="photoshop" width="40" height="40" /> </a>
+    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+    <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a>
+</p>
+
 ## 🚀 My Projects
 
 - [Project 1](link-to-project-1): Brief description of project 1. (TBP)
