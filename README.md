@@ -11,10 +11,8 @@ I'm a passionate and experienced developer with expertise in PHP, Laravel, Node.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <!-- Tools -->
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+<p>    
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker" width="40" height="40" /> </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
@@ -32,22 +30,18 @@ I'm a passionate and experienced developer with expertise in PHP, Laravel, Node.
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
     </a>
-
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
     <!-- Langs  -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40" /> </a>
-
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
-
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40"
             height="40" /> </a>
-
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="40" height="40" /> </a>
@@ -80,11 +74,9 @@ I'm a passionate and experienced developer with expertise in PHP, Laravel, Node.
             alt="react" width="40" height="40" /> </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
             src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
-    
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
             height="40" /> </a>
-    
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
             alt="vuejs" width="40" height="40" /> </a>
