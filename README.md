@@ -11,6 +11,7 @@ I'm a passionate and experienced developer with expertise in PHP, Laravel, Node.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 -->
+
 ### Langauges 
 <p>
     <!-- Langs  -->
