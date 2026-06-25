@@ -121,11 +121,6 @@ I'm a passionate and experienced developer with expertise in PHP, Laravel, Node.
 
 ## 🌱 I’m Currently Learning
 Advanced topics/concepts on
-- React and Next JS 
-- Laravel 
-- Docker and containerization
-- Security Protocols and Web Vunerabilities
-- DevSecOps
 - AI integrations
 - Automations 
 
